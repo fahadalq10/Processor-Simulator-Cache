@@ -1,0 +1,5 @@
+# ninja log v5
+6	4619	7234441801385699	CMakeFiles/proj2.dir/main.cpp.obj	11b9a09d97cc6d13
+3816	5462	7234549052373214	proj2.exe	82deb453b466f45b
+6	571	7252590595089839	build.ninja	64e2327be2da91ee
+6	3815	7234549035834117	CMakeFiles/proj2.dir/simcache.cpp.obj	3b446bbc92cc854d
